@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arj-01
 - 👀 I’m interested in building new and innovative digital products.
-- 🌱 I’m currently learning C++/DSA and Digital electronics.
+- 🌱 I’m currently learning C++/DSA and MERN stack.
 - 💞️ I’m looking to collaborate on projects related to my current learnings. 
 - 📫 How to reach me ...mail me at aarjitgiri@gmail.com
 
